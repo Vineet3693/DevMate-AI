@@ -1,28 +1,5 @@
 
-# AI and ML
-pydantic-ai[groq]==0.0.13
-groq>=0.4.1
-pydantic>=2.5.0
-
-# Streamlit
 streamlit>=1.28.0
-streamlit-ace>=0.1.1
-streamlit-option-menu>=0.3.6
-streamlit-pills>=0.1.0
-
-# Code Processing
-ast-grep>=0.5.0
-tree-sitter>=0.20.0
-pygments>=2.16.0
-autopep8>=2.0.4
-black>=23.0.0
-
-# Utilities
+groq>=0.4.0
+pydantic>=2.0.0
 python-dotenv>=1.0.0
-requests>=2.31.0
-pandas>=2.1.0
-plotly>=5.17.0
-
-# Development
-pytest>=7.4.0
-pytest-asyncio>=0.21.0
